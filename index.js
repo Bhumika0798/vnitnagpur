@@ -5,7 +5,7 @@ const port = 3000;
 
 //start server 
 app.listen(port, () => {
-    console.log('server is up! Running on port ${port}!');
+    console.log('server is up. Running on port ${port}!');
 });
 
 //check Health API
